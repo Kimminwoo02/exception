@@ -20,4 +20,5 @@ public class ErrorPageController {
         log.info("errorPage404");
         return "error-page/500";
     }
+
 }
